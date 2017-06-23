@@ -14,5 +14,6 @@ branch 3
 test1
 masterbranch
 test2 1
-conflict master
-confilct resolve
+conflict master 
+confilct resolve 
+master work
