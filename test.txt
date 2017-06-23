@@ -1,7 +1,6 @@
 commit test
 second test
 third teset
-<<<<<<< HEAD
 fourth test
 five 1
 six 2
