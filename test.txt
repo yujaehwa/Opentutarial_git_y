@@ -15,3 +15,4 @@ test1
 masterbranch
 test2 1
 conflict master
+confilct resolve
