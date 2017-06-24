@@ -22,5 +22,8 @@ test class
 PUSH DATA
 PUSH DATA
 
+
 remote firest lcoal repository pushdata
 remote firstlocal repositroy pushdata
+remote firstlocal repositroy pushdata
+remote secondlocal repository pushdata
