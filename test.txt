@@ -24,3 +24,4 @@ PUSH DATA
 
 
 remote firstlocal repositroy pushdata
+remote secondlocal repository pushdata
